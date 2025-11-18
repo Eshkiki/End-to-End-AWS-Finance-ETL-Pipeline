@@ -23,6 +23,11 @@ Later phases will include:
 - Automated scheduling
 
 
+## 🏗️ Screenshots
+
+![First Simple Dashboard](Screenshots/PowerBI.png)
+
+Find more in Screenshots folder.
 
 ## 🏗️ Architecture
 
